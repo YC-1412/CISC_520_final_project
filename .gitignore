@@ -2,6 +2,9 @@
 data/
 *.zip
 *.csv
+.DS_Store
+*.png
+*.svg
 
 
 # Byte-compiled / optimized / DLL files
